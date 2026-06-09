@@ -26,13 +26,8 @@ Matcha Intelligence Tracker adalah aplikasi web full-stack untuk mencatat, menge
 - Tailwind CSS
 - Vercel
 
-## Screenshots
-
-Tambahkan screenshot aplikasi di sini.
-
 ### Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
+<img width="506" height="409" alt="Screenshot 2026-06-09 094042" src="https://github.com/user-attachments/assets/3ca2ed2b-0fa5-4479-bf8b-9f1f17f0b943" />
 
 ## Project Structure
 
